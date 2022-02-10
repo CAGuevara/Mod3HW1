@@ -136,12 +136,12 @@ public class Lab2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-//		printingString("Hello World");
-//		duplicateChar("extraordinary");
-//		System.out.println(addNumbers(10));
-//		printEvenNumbers();
-//		givenOutput();
-//		evenNumbersPrint(10);
+		printingString("Hello World");
+		duplicateChar("extraordinary");
+		System.out.println(addNumbers(10));
+		printEvenNumbers();
+		givenOutput();
+		evenNumbersPrint(10);
 		callPrime(20);
 	}
 
